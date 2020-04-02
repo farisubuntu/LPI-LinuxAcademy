@@ -10,9 +10,13 @@
 - Consisted of 40 questions and one-hour time frame.
 
 Requirements:
+
 - Basic working knowledge of computer hardware.
 - An understanding of operating system components,programs that ar used on the computer, and process that run within the computing environment.
 - Knowledge of varios open source application that can ve used in the workplace, and their relation to their closed source counterparts(...).
 - How to navigate the Linux Desktop Environment.
 - The ability to work from the command line to manipulate files and folders.
-- 
+
+LPI Linux Essentials topics and assigned weights:
+![LPI Linux Essentials topics and assigned weights](./Images/1.png);
+
